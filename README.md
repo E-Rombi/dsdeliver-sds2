@@ -23,4 +23,5 @@ Novas features do aplicativo, além de implementação de OpenAPI para documenta
 
 ## Links
 
-App: https://eduardo-rombi-sds2.netlify.app/ 
+* Em Releases possui a ultima versão do APK
+* Web: https://eduardo-rombi-sds2.netlify.app/ 
