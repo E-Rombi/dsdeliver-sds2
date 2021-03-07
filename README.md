@@ -1,8 +1,8 @@
-![Badge](https://img.shields.io/badge/Spring%20version-2.3.5.RELEASE-green)
+![Badge](https://img.shields.io/badge/Spring%20version-2.4.1.RELEASE-green)
 ![Badge](https://img.shields.io/badge/npm-v6.14.8-red)
 
-# DS Deliver
-Sistema de realizações de Pedidos para entrega de alimentos.
+# DS Catalog
+Sistema de catálogo de produtos.
 
 
 ## Escopo do Projeto
@@ -13,15 +13,19 @@ Desenvolver uma API utilizando Spring Boot e consumi-la para desenvolver o Front
 - Spring Framework
   - Boot
   - Data JPA
-  - Security
+  - Security OAuth2
+  - Validation
   - Test
+  - Cloud
 - H2 Database
 - PostgreSQL
+- Amazon S3
+- Docker
+- Swagger
 
 ## Futuro
-Novas features do aplicativo, além de implementação de OpenAPI para documentação do Backend.
+Atualmente foi implementado o básico para realização do deploy, será implementado todo o CRUD de categorias, usuários e recuperação de senha.
 
 ## Links
 
-* Em Releases possui a ultima versão do APK
-* Web: https://eduardo-rombi-sds2.netlify.app/ 
+* Web: https://erombi-dscatalog.netlify.app
